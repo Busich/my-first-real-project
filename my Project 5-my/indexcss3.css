@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+}
+p {
+  font-family: "Kosugi Maru", sans-serif;
+}
+.navbar-brand img {
+  width: 100px;
+}
+.navbar-nav .nav-link active {
+  color: rgb(236, 132, 203);
+}
+.nav-link {
+  color: rgb(139, 205, 250);
+}
+.container {
+  align-items: center;
+}
+.p {
+  text-align: left;
+  font-size: larger;
+}
+.text {
+  text-align: center;
+  margin: 1em;
+  padding: 10px;
+  font-size: xx-large;
+  border-radius: 7%;
+  border: 4px solid #ffa5ef;
+}
+.Carusel {
+  width: 100%;
+}
+.carousel-inner {
+  border-radius: 8%;
+  align-items: center;
+}
+.imeeno-carusel {
+  width: 50%;
+  margin-top: 2em;
+  margin-left: 10em;
+}
+.carousel-control-prev-icon {
+  position: absolute;
+  left: 2em;
+}
+.carousel-control-next-icon {
+  position: absolute;
+  right: 10em;
+}
+.bying-text {
+  border: 6px solid #000;
+  display: inline;
+  text-align: center;
+  margin-top: 2em;
+  padding: 1em;
+  outline-offset: 4px;
+  font-size: large;
+  border-radius: 9%;
+}
+.delivery {
+  margin-top: 2em;
+  border: 6px solid #000;
+  border-radius: 16px;
+  padding: 5px;
+}
+.bying-text > button {
+  margin-top: 1em;
+  width: 100%;
+  font-size: larger;
+}

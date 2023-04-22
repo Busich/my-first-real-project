@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: radial-gradient(#c6a0cc 0%, #ffb2f7 100%);
+}
+p {
+  font-family: "Kosugi Maru", sans-serif;
+}
+.navbar-brand img {
+  width: 100px;
+}
+.navbar-nav .nav-link active {
+  color: rgb(236, 132, 203);
+}
+.nav-link {
+  color: rgb(139, 205, 250);
+}
+.card {
+  margin: 1em;
+  border-radius: 5%;
+}
+.card-style {
+  border-radius: 5%;
+  width: 100%;
+}
+.card-text {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(72, 211, 102);
+}
+.p-fot > p {
+  border: 10px groove #000;
+  border-radius: 30px;
+  background-color: rgb(254, 206, 241);
+  font-size: 15px;
+  padding: 5px;
+}
+.button-card {
+  margin-bottom: 10px;
+  align-items: center;
+  width: 100%;
+}
+.footer-hg {
+  font-family: "Kosugi Maru", sans-serif;
+}
+.row {
+  box-shadow: 13px 8px 36px 3px #000;
+}
+.fot {
+  margin-bottom: 2em;
+}
